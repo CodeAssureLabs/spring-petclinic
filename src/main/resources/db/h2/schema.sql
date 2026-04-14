@@ -1,3 +1,4 @@
+-- Plan 11 shape validation (11.9) — common fields in create_table shapes
 DROP TABLE vet_specialties IF EXISTS;
 DROP TABLE vets IF EXISTS;
 DROP TABLE specialties IF EXISTS;
